@@ -12,9 +12,9 @@ Esta aplicación es una herramienta integral diseñada específicamente para los
 
 ## Características Principales 📃
 
-- Proporciona funcionalidades para la búsqueda de información detallada de cada individuo. Se ha hecho un enfoque especial en la interfaz de usuario, buscando hacerla amigable e intuitiva. Esto asegura que los trabajadores puedan realizar sus tareas rápidamente y con comodidad, mejorando así la eficiencia operativa.
+- Proporciona funcionalidades para la búsqueda de información detallada de cada individuo. Primero se le pide al usuario seleccionar la nacionalidad del Ciudadano (Venezolano o Extranjero) y luego la Cédula de Identidad para asegurar de esta manera una búsqueda precisa dentro de la base de datos del IVSS. Se ha hecho un enfoque especial en la interfaz de usuario, buscando hacerla amigable e intuitiva. Esto asegura que los trabajadores puedan realizar sus tareas rápidamente y con comodidad, mejorando así la eficiencia operativa.
 
-<p align="center"><a><img src="https://i.ibb.co/wdQkjP1/search.png" width="400" alt="Search"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/0MPLvZK/Whats-App-Image-2024-12-16-at-16-23-32-fd56b500.jpg" width="400" alt="Search"></a></p>
 
 <p align="center"><a><img src="https://i.ibb.co/p1KGDqk/search-1.png" width="800" alt="Show"></a></p>
 
@@ -26,15 +26,19 @@ En caso de que el número de Cédula ya se encuentre registrado en la base de da
 
 - Agregar nuevos Ciudadanos.
 
-<p align="center"><a><img src="https://i.ibb.co/Tw1ZnsK/create.png" width="400" alt="Create"></a></p>
+- El Usuario deberá hacer click en el botón de Registrar:
 
-Formulario para agregar nuevos Ciudadanos:
+<p align="center"><a><img src="https://i.ibb.co/0MPLvZK/Whats-App-Image-2024-12-16-at-16-23-32-fd56b500.jpg" width="400" alt="Create"></a></p>
 
-<p align="center"><a><img src="https://i.ibb.co/V3XVhpY/create-form.png" width="800" alt="Create Form"></a></p>
+- Luego se redirige al Usuario a la vista del Formulario para Registrar nuevos Ciudadanos dentro de la Base de Datos del IVSS.
+
+Formulario de Registro de nuevos Ciudadanos:
+
+<p align="center"><a><img src="https://i.ibb.co/Dzb1PDW/Whats-App-Image-2024-12-16-at-16-24-43-fdab66f2.jpg" width="800" alt="Create Form"></a></p>
 
 Una vez guardada la información se arrojará el siguiente mensaje:
 
-<p align="center"><a><img src="https://i.ibb.co/Kj8tqGX/uploaded-data-1.png" width="800" alt="Updated Data"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/MPwXR7b/Whats-App-Image-2024-12-16-at-16-25-14-a209ffb9.jpg" width="800" alt="Updated Data"></a></p>
 
 Se muestra la información guardada en la base de datos:
 
