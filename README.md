@@ -24,7 +24,7 @@ En caso de que el número de Cédula ya se encuentre registrado en la base de da
 
 <br>
 
-- Agregar nuevos Ciudadanos.
+Agregar nuevos Ciudadanos.
 
 - El Usuario deberá hacer click en el botón de Registrar:
 
@@ -38,7 +38,7 @@ Formulario de Registro de nuevos Ciudadanos:
 
 Una vez guardada la información se arrojará el siguiente mensaje:
 
-<p align="center"><a><img src="https://i.ibb.co/MPwXR7b/Whats-App-Image-2024-12-16-at-16-25-14-a209ffb9.jpg" width="800" alt="Updated Data"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/MPwXR7b/Whats-App-Image-2024-12-16-at-16-25-14-a209ffb9.jpg" width="600" alt="Updated Data"></a></p>
 
 Se muestra la información guardada en la base de datos:
 
