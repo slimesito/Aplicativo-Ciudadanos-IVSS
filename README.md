@@ -1,66 +1,59 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/7YMFkYq/Logoivssrojo.png" alt="IVSS Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Aplicación Web para el Instituto Venezolano de los Seguros Sociales (IVSS)
 
-## About Laravel
+Esta aplicación es una herramienta integral diseñada específicamente para los trabajadores del Instituto Venezolano de los Seguros Sociales (IVSS). Su principal objetivo es permitir la adición eficiente de nuevos ciudadanos a la base de datos del IVSS.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<br>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<p align="center"><a><img src="https://i.ibb.co/4t55j1M/home-view-ivss-app.png" width="800" alt="Home View"></a></p>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<br>
 
-## Learning Laravel
+## Características Principales 📃
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- Proporciona funcionalidades para la búsqueda y edición ágil de información detallada de cada individuo. La información editada se refleja instantáneamente en una tabla detallada, garantizando que los datos estén siempre actualizados y sean fácilmente accesibles. Se ha hecho un enfoque especial en la interfaz de usuario, buscando hacerla amigable e intuitiva. Esto asegura que los trabajadores puedan realizar sus tareas rápidamente y con comodidad, mejorando así la eficiencia operativa.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+<p align="center"><a><img src="https://i.ibb.co/wdQkjP1/search.png" width="400" alt="Search"></a></p>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<p align="center"><a><img src="https://i.ibb.co/p1KGDqk/search-1.png" width="800" alt="Show"></a></p>
 
-## Laravel Sponsors
+En caso de que el número de Cédula ya se encuentre registrado en la base de datos la aplicación arrojará el siguiente error:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<p align="center"><a><img src="https://i.ibb.co/sQDj1Qn/search-error.png" width="400" alt="Search Error"></a></p>
 
-### Premium Partners
+<br>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+- Editar la información de los Ciudadanos ya registrados (exceptuando el número de Cédula).
 
-## Contributing
+<p align="center"><a><img src="https://i.ibb.co/p1KGDqk/search-1.png" width="800" alt="Edit"></a></p>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Formulario para la Edición de la información de los Ciudadanos:
 
-## Code of Conduct
+<p align="center"><a><img src="https://i.ibb.co/fMKh6k0/edit-form.png" width="800" alt="Edit Form"></a></p>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Una vez modificada y guardada la información se mostrará el siguiente mensaje:
 
-## Security Vulnerabilities
+<p align="center"><a><img src="https://i.ibb.co/BPNZHQv/edit-form-2.png" width="800" alt="Edit Form 2"></a></p>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Y se muestra la información guardada en la base de datos:
 
-## License
+<p align="center"><a><img src="https://i.ibb.co/Z6PKHzH/updated-data.png" width="800" alt="Updated Data"></a></p>
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<br>
+
+- Agregar nuevos Ciudadanos.
+
+<p align="center"><a><img src="https://i.ibb.co/Tw1ZnsK/create.png" width="400" alt="Create"></a></p>
+
+Formulario para agregar nuevos Ciudadanos:
+
+<p align="center"><a><img src="https://i.ibb.co/V3XVhpY/create-form.png" width="800" alt="Create Form"></a></p>
+
+Una vez guardada la información se arrojará el siguiente mensaje:
+
+<p align="center"><a><img src="https://i.ibb.co/Kj8tqGX/uploaded-data-1.png" width="800" alt="Updated Data"></a></p>
+
+Se muestra la información guardada en la base de datos:
+
+<p align="center"><a><img src="https://i.ibb.co/TgnL0s8/uploaded-data-2.png" width="800" alt="Updated Data 2"></a></p>
