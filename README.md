@@ -20,7 +20,7 @@ Esta aplicación es una herramienta integral diseñada específicamente para los
 
 En caso de que el número de Cédula ya se encuentre registrado en la base de datos la aplicación arrojará el siguiente error:
 
-<p align="center"><a><img src="https://i.ibb.co/k6z0TmK/Whats-App-Image-2024-12-16-at-16-25-33-511dc1da.jpg" width="400" alt="Search Error"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/k6z0TmK/Whats-App-Image-2024-12-16-at-16-25-33-511dc1da.jpg" width="600" alt="Search Error"></a></p>
 
 <br>
 
@@ -28,7 +28,7 @@ Agregar nuevos Ciudadanos.
 
 - El Usuario deberá hacer click en el botón de Registrar:
 
-<p align="center"><a><img src="https://i.ibb.co/0MPLvZK/Whats-App-Image-2024-12-16-at-16-23-32-fd56b500.jpg" width="400" alt="Create"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/M1085m2/Screenshot-2024-12-16-200045.png" width="400" alt="Create"></a></p>
 
 - Luego se redirige al Usuario a la vista del Formulario para Registrar nuevos Ciudadanos dentro de la Base de Datos del IVSS.
 
